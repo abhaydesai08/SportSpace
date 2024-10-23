@@ -5,5 +5,6 @@ public class demo {
 	
 	public void demo1() {
 		System.out.println("hello");
+		System.out.println("code added by vinod");
 	}
 }
