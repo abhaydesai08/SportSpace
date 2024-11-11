@@ -43,6 +43,7 @@ public class Booking {
 	@OneToOne(mappedBy = "booking")
 	@Autowired
 	private Payment payment;
+	//chutiya satyam
 }
 
 
